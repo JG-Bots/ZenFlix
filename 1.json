@@ -73,9 +73,9 @@
       }
     },
     {
-      "slug": "minecraftofilme",
-      "title": "Minecraft: O Filme",
-      "cover": "/cover/minecraftofilme.jpg",
+      "slug": "umfilmeminecraft",
+      "title": "Um Filme Minecraft",
+      "cover": "/cover/umfilmeminecraft.jpg",
       "time": "1h 41m",
       "age": "2025",
       "lng": "Dublado",
@@ -85,7 +85,7 @@
       "episodes": {
         "dub": {
           "Linguagens": {
-            "Assistir": "/filmes/minecraftofilme.mp4"
+            "Assistir": "/filmes/umfilmeminecraft.mp4"
           }
         }
       }
