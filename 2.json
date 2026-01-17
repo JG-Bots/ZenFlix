@@ -1,6 +1,11 @@
 {
   "recentes": [
     {
+      "slug": "minecraftofilme",
+      "cover": "/cover/minecraftofilme.jpg",
+      "title": "Minecraft O Filme"
+    },
+    {
       "slug": "coraline",
       "cover": "/cover/coraline.jpg",
       "title": "Coraline e o Mundo Secreto"
