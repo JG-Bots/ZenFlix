@@ -6,7 +6,7 @@
       "cover": "/cover/fnaf2.jpeg",
       "time": "1h 44m",
       "age": "2025",
-      "lng": "dub",
+      "lng": "Dublado",
       "genres": [],
       "sinopse": "A irmã de 11 anos de Mike sai escondido para se reencontrar com Freddy, Bonnie, Chica e Foxy. Ela desencadeia uma aterrorizante série de eventos que revelam segredos sombrios sobre a verdadeira origem de Freddy.",
       "languages": ["dub"],
@@ -24,7 +24,7 @@
       "cover": "/cover/joseethetigerandfishf1.jpg",
       "time": "1h 44m",
       "age": "2021",
-      "lng": "leg",
+      "lng": "Legendado",
       "genres": [],
       "sinopse": "Com sonhos de mergulhar no exterior, Tsuneo consegue um emprego ajudando Josee, uma artista cuja imaginação a leva muito além da cadeira de rodas. Mas quando a maré vira contra eles, eles se empurram para lugares que nunca imaginaram possíveis, inspirando um amor digno de um conto de histórias.",
       "languages": ["leg"],
@@ -42,7 +42,7 @@
       "cover": "/cover/alistadaminhavida.jpg",
       "time": "2h 03m",
       "age": "2025",
-      "lng": "dub",
+      "lng": "Dublado",
       "genres": [],
       "sinopse": "A Lista da Minha Vida é um filme de comédia romântica e drama de 2025, que segue a jornada de Alex Rose, uma jovem que, após a morte de sua mãe, embarca em uma missão para realizar os sonhos de sua adolescência.",
       "languages": ["dub"],
@@ -60,7 +60,7 @@
       "cover": "/cover/coraline.jpg",
       "time": "1h 40m",
       "age": "2009",
-      "lng": "dub",
+      "lng": "Dublado",
       "genres": [],
       "sinopse": "Coraline descobre uma porta para um mundo alternativo onde tudo parece perfeito, pais afetuosos e desejos realizados. Porém todos têm botões nos olhos, e logo percebe que essa realidade paralela esconde intenções sombrias para mantê-la presa.",
       "languages": ["dub"],
@@ -68,6 +68,24 @@
         "dub": {
           "Linguagens": {
             "Assistir": "/filmes/coraline.mp4"
+          }
+        }
+      }
+    },
+    {
+      "slug": "minecraftofilme",
+      "title": "Minecraft: O Filme",
+      "cover": "/cover/minecraftofilme.jpg",
+      "time": "1h 41m",
+      "age": "2025",
+      "lng": "Dublado",
+      "genres": ["Aventura", "Comédia", "Família"],
+      "sinopse": "Quatro desajustados são subitamente puxados por um portal misterioso ao Mundo Superior: um paraíso bizarro e cúbico que vive na base da imaginação. Para voltar para casa, eles embarcam em uma jornada mágica com um artesão experiente e inusitado, Steve. Juntos, sua aventura desafiará todos os cinco a serem ousados e se reconectarem com as qualidades que tornam cada um deles singularmente criativo.",
+      "languages": ["dub"],
+      "episodes": {
+        "dub": {
+          "Linguagens": {
+            "Assistir": "/filmes/minecraftofilme.mp4"
           }
         }
       }
