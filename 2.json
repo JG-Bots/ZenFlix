@@ -1,0 +1,24 @@
+{
+  "recentes": [
+    {
+      "slug": "coraline",
+      "cover": "/cover/coraline.jpg",
+      "title": "Coraline e o Mundo Secreto"
+    },
+    {
+      "slug": "alistadaminhavida",
+      "cover": "/cover/alistadaminhavida.jpg",
+      "title": "A lista da Minha Vida"
+    },
+    {
+      "slug": "joseethetigerandfishf1",
+      "cover": "/cover/joseethetigerandfishf1.jpg",
+      "title": "Josee, the Tiger and the Fish"
+    },
+    {
+      "slug": "fivenightsatfreddy2",
+      "cover": "/cover/fnaf2.jpeg",
+      "title": "Five Nights at Freddy's 2"
+    }
+  ]
+}
